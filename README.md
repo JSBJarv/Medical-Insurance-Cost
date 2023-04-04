@@ -1,2 +1,2 @@
 # Medical-Insurance-Cost
-Investigating a data set provided by a fictional insurance agency using regression models and matplotlib visualization.
+Exploratory data analysis and predictive analysis using regression model to formulate a mathematical model in calculating insurance cost.
